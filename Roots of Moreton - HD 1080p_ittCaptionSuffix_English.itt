@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<tt xmlns:vt="http://namespace.itunes.apple.com/itt/ttml-extension#vertical" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:tt_feature="http://www.w3.org/ns/ttml/feature/" xmlns:ebutts="urn:ebu:tt:style" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:tt_extension="http://www.w3.org/ns/ttml/extension/" xmlns:tt_profile="http://www.w3.org/ns/ttml/profile/" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ry="http://namespace.itunes.apple.com/itt/ttml-extension#ruby" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns="http://www.w3.org/ns/ttml" xml:lang="en" ttp:dropMode="nonDrop" ttp:frameRate="60" ttp:frameRateMultiplier="1 1" ttp:timeBase="smpte" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <head>
+    <styling>
+      <style xml:id="normal" tts:color="white" tts:fontFamily="sansSerif" tts:fontSize="100%" tts:fontStyle="normal" tts:fontWeight="normal"/>
+    </styling>
+    <layout>
+      <region xml:id="bottom" tts:displayAlign="after" tts:extent="100% 15%" tts:origin="0% 85%" tts:writingMode="lrtb"/>
+    </layout>
+  </head>
+  <body tts:color="white" region="bottom" style="normal">
+    <div>
+      <p begin="00:00:03:08" end="00:00:07:09" region="bottom">Hello! We are Team Grus, based in Brisbane, Queensland. </p>
+      <p begin="00:00:07:12" end="00:00:10:44" region="bottom">We hold a deep passion for sustainability, climate change, </p>
+      <p begin="00:00:10:51" end="00:00:12:39" region="bottom">and the preservation of flora and fauna.</p>
+      <p begin="00:00:13:05" end="00:00:15:36" region="bottom">In the heart of Moreton Bay, a place we all cherish, </p>
+      <p begin="00:00:15:40" end="00:00:18:18" region="bottom">there's a silent yet pressing crisis.</p>
+      <p begin="00:00:18:41" end="00:00:22:43" region="bottom"> Our precious native plants, the very essence of this region, </p>
+      <p begin="00:00:22:44" end="00:00:25:09" region="bottom">are facing a threat, a looming shadow.</p>
+      <p begin="00:00:25:23" end="00:00:27:00" region="bottom"> The root cause....</p>
+      <p begin="00:00:27:06" end="00:00:30:02" region="bottom">A simple, yet profound, lack of awareness. </p>
+      <p begin="00:00:30:03" end="00:00:31:34" region="bottom">According to literature,</p>
+      <p begin="00:00:31:34" end="00:00:34:26" region="bottom"> we found that many threatened flora species are at risk </p>
+      <p begin="00:00:34:27" end="00:00:36:27" region="bottom">due to a lack of public awareness </p>
+      <p begin="00:00:36:31" end="00:00:39:49" region="bottom">regarding their existence and their ecological significance.</p>
+      <p begin="00:00:40:20" end="00:00:44:48" region="bottom">Our primary objective is to heighten social awareness about these endangered flora</p>
+      <p begin="00:00:44:59" end="00:00:49:34" region="bottom">underscoring the imperative to conserve both the species and their natural habitats</p>
+      <p begin="00:00:49:39" end="00:00:52:33" region="bottom">Imagine a world where every resident, young and old, </p>
+      <p begin="00:00:52:34" end="00:00:54:46" region="bottom">becomes a guardian of these plants</p>
+      <p begin="00:00:54:49" end="00:00:57:26" region="bottom">Where we all engage, educate ourselves,</p>
+      <p begin="00:00:57:30" end="00:01:00:18" region="bottom"> and get inspired, all while indulging in some fun.</p>
+      <p begin="00:01:00:44" end="00:01:05:22" region="bottom">Introducing 'Roots of Moreton' - our answer to the conservation challenge. </p>
+      <p begin="00:01:06:01" end="00:01:10:29" region="bottom">Dive into an immersive experience tailored for every Moreton Bay resident. </p>
+      <p begin="00:01:10:33" end="00:01:12:13" region="bottom"> Plant your virtual sapling, </p>
+      <p begin="00:01:12:16" end="00:01:13:30" region="bottom">nurture it with care, </p>
+      <p begin="00:01:13:30" end="00:01:14:48" region="bottom">delve deep into its story, </p>
+      <p begin="00:01:14:48" end="00:01:18:04" region="bottom">and watch it thrive as you learn about its unique characteristics</p>
+      <p begin="00:01:18:07" end="00:01:21:52" region="bottom"> Each sapling's profile provides insights about its species, </p>
+      <p begin="00:01:21:56" end="00:01:26:12" region="bottom">native location, age, and other captivating details. <br/></p>
+      <p begin="00:01:26:39" end="00:01:28:03" region="bottom">But that's not all! </p>
+      <p begin="00:01:28:03" end="00:01:30:03" region="bottom">Our game world is alive, adapting and responding to </p>
+      <p begin="00:01:30:03" end="00:01:33:54" region="bottom">the real-time meteorological heartbeat of Moreton Bay</p>
+      <p begin="00:01:33:54" end="00:01:37:25" region="bottom">Every gust of wind, every drop of rain is a lesson, </p>
+      <p begin="00:01:37:27" end="00:01:40:20" region="bottom">teaching you about the distinct care needs of your tree. </p>
+      <p begin="00:01:40:20" end="00:01:44:57" region="bottom">As players nurture their tree, they'll be informed about its specific care needs,</p>
+      <p begin="00:01:45:05" end="00:01:50:16" region="bottom"> like optimal humidity levels and watering frequency, available within the tree's profile. </p>
+      <p begin="00:01:50:20" end="00:01:53:45" region="bottom">This immersive interface seeks to instill a deeper respect </p>
+      <p begin="00:01:53:51" end="00:01:56:57" region="bottom">and understanding for Moreton Bay's rich biodiversity.</p>
+      <p begin="00:01:57:01" end="00:02:01:26" region="bottom">Step outside and let the game guide your real-world exploration. </p>
+      <p begin="00:02:01:26" end="00:02:04:47" region="bottom">Capture the beauty of our local trees, and in return, </p>
+      <p begin="00:02:04:49" end="00:02:08:25" region="bottom">discover and unlock new species in your virtual forest</p>
+      <p begin="00:02:08:30" end="00:02:10:30" region="bottom">Experience the thrill of discovery </p>
+      <p begin="00:02:10:32" end="00:02:13:46" region="bottom">and fortify your bond with Moreton Bay's incredible biodiversity.</p>
+      <p begin="00:02:13:48" end="00:02:16:38" region="bottom">And here's where it gets even more fascinating</p>
+      <p begin="00:02:16:40" end="00:02:18:40" region="bottom">'Roots of Moreton' isn't just a game</p>
+      <p begin="00:02:18:43" end="00:02:20:35" region="bottom"> It's a call to action. </p>
+      <p begin="00:02:20:36" end="00:02:23:45" region="bottom">Spot a tree that seems unwell or endangered in your neighbourhood? </p>
+      <p begin="00:02:24:21" end="00:02:26:17" region="bottom">Report it within our platform.</p>
+      <p begin="00:02:26:32" end="00:02:29:26" region="bottom"> The magic unfolds as your report rings an alert bell </p>
+      <p begin="00:02:29:27" end="00:02:32:27" region="bottom">for the Moreton Bay government's dedicated environmental brigade.</p>
+      <p begin="00:02:32:29" end="00:02:37:42" region="bottom"> Prompt actions, timely interventions, and the real-world impact of your in-game actions. </p>
+      <p begin="00:02:37:48" end="00:02:39:05" region="bottom">So, why wait? </p>
+      <p begin="00:02:39:09" end="00:02:43:06" region="bottom">Join us in this unparalleled blend of the digital and natural worlds. </p>
+      <p begin="00:02:43:24" end="00:02:48:37" region="bottom">Play, absorb, and contribute to a greener, brighter future for our beloved Moreton Bay.</p>
+      <p begin="00:02:48:47" end="00:02:51:38" region="bottom">'Roots of Moreton' - Where Gaming Meets Conservation. </p>
+      <p begin="00:02:51:40" end="00:02:53:40" region="bottom">Embark on your journey today.</p>
+      <p begin="00:02:53:43" end="00:02:56:13" region="bottom">Thanks for listening ;)</p>
+    </div>
+  </body>
+</tt>
